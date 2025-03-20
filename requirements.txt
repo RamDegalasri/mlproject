@@ -1,4 +1,12 @@
 pandas
 numpy
 seaborn
--e .
+setuptools
+logging
+datetime
+matplotlib
+scikit-learn
+xgboost
+catboost
+dill
+#-e .
